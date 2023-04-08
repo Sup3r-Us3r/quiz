@@ -4,6 +4,10 @@
 
 Quiz app in React Native focusing on animations and micro interactions.
 
+<div align="center">
+  <video src="https://user-images.githubusercontent.com/22561893/230719225-0eda7d9b-cab6-409a-a9f9-7ec8c1ec7ecd.MP4" width="400" />
+</div>
+
 ## :rocket: Techs
 
 - [x] [React Native](https://reactnative.dev)
@@ -21,6 +25,8 @@ Quiz app in React Native focusing on animations and micro interactions.
 - [x] Shake animation
 - [x] Entry and exit animation
 - [x] Rotate animation
+
+
 - [x] Layout animation
 - [x] Swipeable interaction
 - [x] Fixed header on scroll up
